@@ -1,6 +1,6 @@
 # Konyha Hosting
 
-Use this repository to host [konyha](https://konyha.xyz) with the official [docker images](https://hub.docker.com/u/konyha) on a server.
+Use this repository to host [Konyha](https://github.com/balzss/konyha) with the official [docker images](https://hub.docker.com/u/konyha) on a server.
 
 ## Running
 
