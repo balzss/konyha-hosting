@@ -1,6 +1,6 @@
 # Konyha Hosting
 
-Use this repository to host the official [konyha](https://konyha.xyz) docker images on a server.
+Use this repository to host [konyha](https://konyha.xyz) with the official [docker images](https://hub.docker.com/u/konyha) on a server.
 
 ## Running
 
@@ -10,7 +10,7 @@ Use this repository to host the official [konyha](https://konyha.xyz) docker ima
 git clone https://github.com/balzss/konyha-hosting && cd konyha-hosting
 ```
 
-2. Copy `.env.example` to `.env` and add your variables
+2. Copy the `.env.example` file to `.env` and add your variables
 
 3. Start containers with docker compose
 
